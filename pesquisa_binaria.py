@@ -29,7 +29,5 @@ def pesquisa_binaria(lista, item):
             baixo = meio + 1
     return None
 
-	
-	
 minha_lista = [1,2,3,5,4,10,9,8,7,6]
 print (pesquisa_binaria(ordenacaoporSelecao(minha_lista), 3)) #2
